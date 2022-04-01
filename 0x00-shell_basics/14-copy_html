@@ -1,2 +1,4 @@
 #!/bin/babash
 cp -nu *.html ..
+echo #!/bin/bash
+cp -nu *.html ..
